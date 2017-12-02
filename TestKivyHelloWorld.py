@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 import kivy
 kivy.require('1.0.6') # replace with your current kivy version !
 
@@ -14,6 +13,3 @@ class MyApp(App):
 
 if __name__ == '__main__':
     MyApp().run()
-=======
-
->>>>>>> a8b5cced9a06eb70fe7d372be4ed5d276b93fa63
